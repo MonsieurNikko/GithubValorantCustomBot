@@ -1,0 +1,18 @@
+🏆 Team 1
+- Nikkodinho#HAN (Ascendant 2), K/D: 1.08, ACS: 248.7, DMG/Rnd: 164.4, Win%: 52.3%, First Bloods: 486
+- Một Mẩu#1803 (Diamond 2), K/D: 0.83, ACS: 173.5, DMG/Rnd: 114.1, Win%: 51.8%, First Bloods: 97
+- itsmetrucc#uno (Ascendant 1), K/D: 1.02, ACS: 223.9, DMG/Rnd: 146.7, Win%: 48.0%, First Bloods: 265
+- Virus#LAJV (Ascendant 1), K/D: 0.77, ACS: 182.5, DMG/Rnd: 122.5, Win%: 50.7%, First Bloods: 279
+- Sáu Số 0#MINZ (Ascendant 1), K/D: 0.94, ACS: 210.6, DMG/Rnd: 140.5, Win%: 38.5%, First Bloods: 191
+
+🏆 Team 2
+- ImDaMinh#7777 (Ascendant 1), K/D: 1.08, ACS: 209.4, DMG/Rnd: 140.5, Win%: 53.3%, First Bloods: 68
+- Ngôn Lào#Kezin (Ascendant 2), K/D: 1.03, ACS: 218.3, DMG/Rnd: 144.0, Win%: 48.8%, First Bloods: 469
+- K1N#gnouh (Ascendant 1), K/D: 1.13, ACS: 223.8, DMG/Rnd: 151.1, Win%: 50.5%, First Bloods: 340
+- CựXuHào#1310 (Diamond 1), K/D: 0.96, ACS: 211.7, DMG/Rnd: 140.6, Win%: 46.2%, First Bloods: 282
+- depressed#noom (Gold 1), K/D: 1.13, ACS: 243.9, DMG/Rnd: 162.4, Win%: 57.1%, First Bloods: 70
+
+
+📊 Team Averages:
+- **Team 1**: Rank: Ascendant 1 (18.6), K/D: 0.932, Win%: 47.9%, ACS: 203.3, DMG/Rnd: 137.2, First Bloods: 242.4
+- **Team 2**: Rank: Ascendant 1 (19), K/D: 1.06, Win%: 50.0%, ACS: 221.4, DMG/Rnd: 147.3, First Bloods: 245.8
